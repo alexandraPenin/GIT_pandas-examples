@@ -1,7 +1,7 @@
 <<<<<<< HEAD
+# Pandas example voila le conflit
 COUCOU LES AMI.ES
 =======
-# Pandas example voila le conflit
 >>>>>>> 62b3be7a545ef65d4945b495835edb022cad065c
 
 Coucou les amis! :) :)
