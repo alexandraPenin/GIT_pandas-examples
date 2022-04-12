@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #avec Daniel  
+=======
+<<<<<<< HEAD!
+COUCOU LES AMI.ES
+=======
+>>>>>>> 62b3be7a545ef65d4945b495835edb022cad065c
+>>>>>>> f0738926ea8ab93592f5b379a8656d0e762e59fd
 
 Coucou les amis! :) :)
 
@@ -20,3 +27,4 @@ For this example, I used the "MovieLens" data set that contains information of u
 $ pip install pandas
 $ pip install numpy
 ```
+AIAIIDFJSFLEJFZEFJOZEFJZFOZEJFOZEJFZEJFOJO
