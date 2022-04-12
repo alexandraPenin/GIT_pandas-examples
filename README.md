@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Pandas example voila le conflit
+# Pandas example voila le conflit qu'il faut résoudre !!!
 COUCOU LES AMI.ES
 =======
 >>>>>>> 62b3be7a545ef65d4945b495835edb022cad065c
